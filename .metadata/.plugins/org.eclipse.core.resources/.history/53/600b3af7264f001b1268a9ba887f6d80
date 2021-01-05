@@ -1,0 +1,18 @@
+package com.master.jm;
+
+public class master_02 extends Master_01 {
+
+	/*
+	 * 이런식으로 다른 클래스에서
+	 * 기존에 만들어놓았던 기능들에대해 
+	 * 사용이 가능하다.
+	 * 
+	 * 
+	 */
+	
+	Master_01 rbmaster = new Master_01();
+ 
+ 
+ 
+	
+}

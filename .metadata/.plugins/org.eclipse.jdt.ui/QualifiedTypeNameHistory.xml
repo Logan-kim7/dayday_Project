@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.callor.intf.intf"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutionException"/>
+<fullyQualifiedTypeName name="com.callor.intf.ScoerEx_01"/>
+<fullyQualifiedTypeName name="com.callor.mainEx.mainEx_01"/>
+<fullyQualifiedTypeName name="com.callor.score.ScoreVO"/>
+<fullyQualifiedTypeName name="com.callor.intf.ScoreServiceImplV1"/>
+<fullyQualifiedTypeName name="com.callor.intf.service"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.biz.interfaces.RemoConInterface"/>
+<fullyQualifiedTypeName name="com.biz.service.가회사"/>
+<fullyQualifiedTypeName name="com.biz.service.나회사"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.biz.service.BankServiceImplV2"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="com.biz.bank.domain.AccountVO"/>
+<fullyQualifiedTypeName name="com.biz.bank.config.Posion"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.biz.service.BankService"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.biz.service.BankServiceImplV4"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.biz.score.service.ScoreServiceImplV1"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.biz.world.serivce.WordGameService"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="com.biz.world.statics.SplitPosition"/>
+<fullyQualifiedTypeName name="com.biz.world.serivce.WordGameServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.world.serivce.WordGameServiceV3"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.biz.classes.ScoreService"/>
+<fullyQualifiedTypeName name="com.master.jm.Master_01"/>
+</qualifiedTypeNameHistroy>
