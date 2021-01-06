@@ -42,4 +42,5 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.biz.classes.ScoreService"/>
 <fullyQualifiedTypeName name="com.master.jm.Master_01"/>
+<fullyQualifiedTypeName name="com.master.jm.MasterIfs_01"/>
 </qualifiedTypeNameHistroy>

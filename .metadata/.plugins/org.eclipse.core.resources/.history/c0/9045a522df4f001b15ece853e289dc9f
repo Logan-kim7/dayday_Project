@@ -1,0 +1,8 @@
+package com.master.jm;
+
+public interface MasterIfs_01 {
+	
+	private int intKor;
+	private int intEng;
+	private int intMath;
+}

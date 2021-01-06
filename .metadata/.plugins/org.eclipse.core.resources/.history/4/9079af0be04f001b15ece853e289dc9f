@@ -1,0 +1,40 @@
+package com.master.jm;
+
+public interface MasterIfs_01 {
+	// 보다시피 interface는 private 을 쓸수없다. public 이나 final로 해주어야한다.
+	// private int intKor;
+
+	/* 인터페이스로 구현할수 있는 종류
+	 * //상수
+	 * 
+	 * 타입 상수명 = 값;
+	 * 
+	 * //추상 메소드
+	 * 
+	 * 타입 메소드명(매개변수, ... );
+	 * 
+	 * //디폴트 메소드
+	 * 
+	 * default 타입 메소드명(매개변수, ... ){
+	 * 
+	 * //구현부
+	 * 
+	 * }
+	 * 
+	 * 
+	 * //정적 메소드
+	 * 
+	 * static 타입 메소드명(매개변수) {
+	 * 
+	 * //구현부
+	 * 
+	 * }
+	 * 
+	 */
+
+	public int intEng();
+
+	public int intMath();
+
+	int intEng(int intCount);
+}
