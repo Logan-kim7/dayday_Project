@@ -26,7 +26,6 @@
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="com.biz.service.BankServiceImplV4"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="com.biz.score.service.ScoreServiceImplV1"/>
 <fullyQualifiedTypeName name="java.io.PrintStream"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
@@ -39,9 +38,12 @@
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.biz.classes.ScoreService"/>
 <fullyQualifiedTypeName name="com.master.jm.Master_01"/>
 <fullyQualifiedTypeName name="com.master.jm.MasterIfs_01"/>
 <fullyQualifiedTypeName name="com.master.addr.domain.AddrVO"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.master.book.conf.Lines"/>
+<fullyQualifiedTypeName name="com.master.book.service.BookServiceV1"/>
 </qualifiedTypeNameHistroy>

@@ -12,7 +12,7 @@ package com.master.jm;
  *  쉽게생각하자
  *  public >>> 일명 호구 오픈마인드로 전부다 접근가능
  *  
- *  private >>> 클래스 안에서만 접근가능 
+ *  private >>> 같은 패키지안에서 접근 가능 
  *  
  *  protected >>> 같은 클래스 안에서만 가능 단 상속을 받은경우는 가능
  *  
