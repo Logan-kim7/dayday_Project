@@ -14,11 +14,9 @@
 <fullyQualifiedTypeName name="com.biz.interfaces.RemoConInterface"/>
 <fullyQualifiedTypeName name="com.biz.service.가회사"/>
 <fullyQualifiedTypeName name="com.biz.service.나회사"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="com.biz.service.BankServiceImplV2"/>
-<fullyQualifiedTypeName name="java.io.FileReader"/>
 <fullyQualifiedTypeName name="com.biz.bank.domain.AccountVO"/>
 <fullyQualifiedTypeName name="com.biz.bank.config.Posion"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
@@ -30,8 +28,6 @@
 <fullyQualifiedTypeName name="java.io.PrintStream"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="com.biz.world.serivce.WordGameService"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="com.biz.world.statics.SplitPosition"/>
 <fullyQualifiedTypeName name="com.biz.world.serivce.WordGameServiceV2"/>
 <fullyQualifiedTypeName name="com.biz.world.serivce.WordGameServiceV3"/>
@@ -43,7 +39,17 @@
 <fullyQualifiedTypeName name="com.master.jm.MasterIfs_01"/>
 <fullyQualifiedTypeName name="com.master.addr.domain.AddrVO"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.master.book.conf.Lines"/>
 <fullyQualifiedTypeName name="com.master.book.service.BookServiceV1"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.master.st.domain.StudentVO"/>
+<fullyQualifiedTypeName name="javax.annotation.processing.FilerException"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.master.st.service.StudentService"/>
+<fullyQualifiedTypeName name="java.master.st.service.StudentServiceImplV1"/>
 </qualifiedTypeNameHistroy>
